@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on whatever with design
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/vaninadenegri/">LinkedIn</a>
 - 😄 Pronouns: She/her (ella)
-- ⚡ Fun fact: ...
+- ⚡ Fun (sad) fact: I don't know how to ride a bike
 
 <!---
 VannDennOk/VannDennOk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
