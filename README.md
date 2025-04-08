@@ -2,7 +2,7 @@
 - 👀 I’m interested in FrontEnd Developmnet & Web Design
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on whatever with design
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/vaninadenegri/">LinkedIn</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/vaninadenegri/">LinkedIn</a> | <a href="https://www.linkedin.com/in/vaninadenegri/">Behance</a>                
 - 😄 Pronouns: She/her (ella)
 - ⚡ Fun (sad) fact: I don't know how to ride a bike
 
